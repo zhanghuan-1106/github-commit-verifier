@@ -28,9 +28,9 @@ expected_authors:
 
 # 预期提交信息与SHA映射
 expected_messages:
-  "9b26e49a0a0465b1c6dda6cdc6dd60e9b45c291f": "修改readme文档"
-  "182960e31df2a3324e6b22615e1dd843105925e8": "修改yaml文件"
-  "d4fb01b45a74fe570b93f4b586977360e61b74e8": "修改md文件"
+  "9b26e49a0a0465b1c6dda6cdc6dd60e9b45c291f": "Update README.md"
+  "182960e31df2a3324e6b22615e1dd843105925e8": "Update config_template.yaml"
+  "d4fb01b45a74fe570b93f4b586977360e61b74e8": "Update FEATURE_COMMITS.md"
 
 # 预期提交日期与SHA映射
 expected_dates:
