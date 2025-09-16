@@ -6,10 +6,9 @@ This document tracks all feature development commits in the project.
 
 | Feature Name | Commit SHA | Author | Branch | Date | Files Changed | Message |
 |--------------|------------|--------|--------|------|---------------|---------|
-| User Authentication | a1b2c3d4e5f6789012345678901234567890abcd | johndoe | feature/auth | 2023-05-15 | 12 | Implement user authentication system |
-| Payment Gateway | b2c3d4e5f6789012345678901234567890abcdef1 | janedoe | feature/payment | 2023-06-20 | 8 | Add payment gateway integration |
-| Dashboard Redesign | c3d4e5f6789012345678901234567890abcdef12 | bobsmith | feature/ui-redesign | 2023-07-10 | 15 | Redesign user dashboard interface |
-| Search Optimization | d4e5f6789012345678901234567890abcdef123 | alicejohnson | feature/search | 2023-08-05 | 6 | Improve search algorithm performance |
+| Update files | 9b26e49a0a0465b1c6dda6cdc6dd60e9b45c291f | zhanghuan-1106 | main | 2025-09-16 | 1 | 修改readme文档 |
+| Add files1 | 6bd0c030d121bbd411e039806b9b3e31a96ed8e5 | zhanghuan-1106 | main | 2025-09-16 | 1 |  |
+| Add files2 | 6baf756e52fe84815ba5ee2962bce5774c30964b | zhanghuan-1106 | main | 2025-09-16 | 1 |  |
 
 ## Feature Approval Process
 
