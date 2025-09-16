@@ -17,23 +17,23 @@ min_feature_count: 3
 # 预期特性与SHA映射
 expected_features:
   "Update files": "9b26e49a0a0465b1c6dda6cdc6dd60e9b45c291f"
-  "Add files": "6bd0c030d121bbd411e039806b9b3e31a96ed8e5"
-  "Add files1": "6baf756e52fe84815ba5ee2962bce5774c30964b"
+  "Update files1": "182960e31df2a3324e6b22615e1dd843105925e8"
+  "Update files2": "d4fb01b45a74fe570b93f4b586977360e61b74e8"
 
 # 预期作者与SHA映射
 expected_authors:
   "9b26e49a0a0465b1c6dda6cdc6dd60e9b45c291f": "zhanghuan-1106"
-  "6bd0c030d121bbd411e039806b9b3e31a96ed8e5": "zhanghuan-1106"
-  "6baf756e52fe84815ba5ee2962bce5774c30964b": "zhanghuan-1106"
+  "182960e31df2a3324e6b22615e1dd843105925e8": "zhanghuan-1106"
+  "d4fb01b45a74fe570b93f4b586977360e61b74e8": "zhanghuan-1106"
 
 # 预期提交信息与SHA映射
 expected_messages:
   "9b26e49a0a0465b1c6dda6cdc6dd60e9b45c291f": "修改readme文档"
-  "6bd0c030d121bbd411e039806b9b3e31a96ed8e5": ""
-  "6baf756e52fe84815ba5ee2962bce5774c30964b": ""
+  "182960e31df2a3324e6b22615e1dd843105925e8": "修改yaml文件"
+  "d4fb01b45a74fe570b93f4b586977360e61b74e8": "修改md文件"
 
 # 预期提交日期与SHA映射
 expected_dates:
   "9b26e49a0a0465b1c6dda6cdc6dd60e9b45c291f": "2025-09-16"
-  "6bd0c030d121bbd411e039806b9b3e31a96ed8e5": "2025-09-16"
-  "6baf756e52fe84815ba5ee2962bce5774c30964b": "2025-09-16"
+  "182960e31df2a3324e6b22615e1dd843105925e8": "2025-09-16"
+  "d4fb01b45a74fe570b93f4b586977360e61b74e8": "2025-09-16"
