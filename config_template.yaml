@@ -1,0 +1,39 @@
+# 目标仓库配置
+target_repo: "github-commit-verifier"
+target_branch: "main"
+
+# 特性文档配置
+feature_doc_path: "FEATURE_COMMITS.md"
+table_header: "| Feature Name | Commit SHA | Author | Branch | Date | Files Changed | Message |"
+
+# 文档必填章节
+required_sections:
+  - "# Feature Development Tracking"
+  - "## Feature Commit History"
+
+# 特征数量要求
+min_feature_count: 3
+
+# 预期特性与SHA映射
+expected_features:
+  "User Authentication": "a1b2c3d4e5f6789012345678901234567890abcd"
+  "Payment Gateway": "b2c3d4e5f6789012345678901234567890abcdef1"
+  "Dashboard Redesign": "c3d4e5f6789012345678901234567890abcdef12"
+
+# 预期作者与SHA映射
+expected_authors:
+  "a1b2c3d4e5f6789012345678901234567890abcd": "johndoe"
+  "b2c3d4e5f6789012345678901234567890abcdef1": "janedoe"
+  "c3d4e5f6789012345678901234567890abcdef12": "bobsmith"
+
+# 预期提交信息与SHA映射
+expected_messages:
+  "a1b2c3d4e5f6789012345678901234567890abcd": "Implement user authentication system"
+  "b2c3d4e5f6789012345678901234567890abcdef1": "Add payment gateway integration"
+  "c3d4e5f6789012345678901234567890abcdef12": "Redesign user dashboard interface"
+
+# 预期提交日期与SHA映射
+expected_dates:
+  "a1b2c3d4e5f6789012345678901234567890abcd": "2023-05-15"
+  "b2c3d4e5f6789012345678901234567890abcdef1": "2023-06-20"
+  "c3d4e5f6789012345678901234567890abcdef12": "2023-07-10"
